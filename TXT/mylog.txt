@@ -3,3 +3,4 @@
 # LogCode https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 Github related
 ZCZC W00 15 L01 Read all announcement and forum
+ZCZC W00 85 L02 First zoom QnA
