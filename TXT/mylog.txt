@@ -10,3 +10,7 @@ ZCZC W01 15 L05 Copy-Paste from host to guest
 ZCZC W01 10 L23 Quiz 1
 ZCZC W01 15 L05 Pop Quiz W01
 ZCZC W01 5 L08 Add sudo
+ZCZC W01 135 L11 Mempelajari materi W01 dan mengumpulkan link yang menarik
+ZCZC W01 97 L06 Membaca OSC10 chapter 1 dan chapter 2
+ZCZC W01 20 L11 Menuliskan 10 link yang menarik
+ZCZC W01 60 L05 Mempelajari interrupt di linux (membaca PCAPNG)
