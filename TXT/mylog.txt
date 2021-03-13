@@ -14,3 +14,9 @@ ZCZC W01 135 L11 Mempelajari materi W01 dan mengumpulkan link yang menarik
 ZCZC W01 97 L06 Membaca OSC10 chapter 1 dan chapter 2
 ZCZC W01 20 L11 Menuliskan 10 link yang menarik
 ZCZC W01 60 L05 Mempelajari interrupt di linux (membaca PCAPNG)
+ZCZC W02 45 L07 Memahami dan mempelajari demo week 2
+ZCZC W02 90 L25 Mempelajari cara deobfuscate c binary file
+ZCZC W02 80 L12 Mengumpulkan top 10 website
+ZCZC W02 30 L12 Melihat w01 tetangga dan memilih top 3
+ZCZC W02 70 L08 Latihan docker
+ZCZC W02 20 L08 Setting docker image
