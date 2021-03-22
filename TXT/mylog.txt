@@ -1,6 +1,21 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode https://osp4diss.vlsm.org/ETC/logCodes.txt
+# L00 General Log
+# L01 SCELE related
+# L02 ZOOM related
+# L03 GitHub related
+# L05 GSGS related
+# L06 Reading References/Books/Documents
+# L07 Demo related
+# L08 Trying something
+# L09 AsDos: asking, etc.
+# L10 Assignment (General)
+# L(11..20) Assignment #(1..10 or more)
+# L25 C-language: study, etc.
+# L23 Discord: discussion, etc.
+# L21 VirtualBox: install GNU/Linux, etc.
+# L22 YouTube: study, etc.
 ZCZC W00 10 L03 Github related
 ZCZC W00 15 L01 Read all announcement and forum
 ZCZC W00 85 L02 First zoom QnA
@@ -20,3 +35,11 @@ ZCZC W02 80 L12 Mengumpulkan top 10 website
 ZCZC W02 30 L12 Melihat w01 tetangga dan memilih top 3
 ZCZC W02 70 L08 Latihan docker
 ZCZC W02 20 L08 Setting docker image
+ZCZC W03 80 L13 Membuat top 10 link
+ZCZC W03 133 L06 Membaca OSC10
+ZCZC W03 43 L07 Mencoba menjalankan FUSE dan C code
+ZCZC W03 54 L00 Membaca Week 2 Top 10 milik teman
+ZCZC W03 36 L05 Memahami cara kerja memory dump
+ZCZC W03 12 L06 Membaca material W03
+ZCZC W03 25 L05 Memahami billing AWS EC2
+ZCZC W03 47 L08 Menjalankan VPS linux dan docker
