@@ -47,3 +47,6 @@ ZCZC W04 90 L15 Menyelesaikan top 10 dan tugas W04
 ZCZC W04 45 L00 Memilih top 10
 ZCZC W04 40 L06 Membaca OSC10 tapi belum selesai
 ZCZC W04 23 L05 GSGS tentang error yang dihadapi waktu mengerjakan tugas W4
+ZCZC W05 60 L05 Mockito dan cucu cucunya
+ZCZC W05 45 L05 Unit test
+ZCZC W05 90 L15 Mencari top 10
