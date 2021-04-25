@@ -50,3 +50,7 @@ ZCZC W04 23 L05 GSGS tentang error yang dihadapi waktu mengerjakan tugas W4
 ZCZC W05 60 L05 Mockito dan cucu cucunya
 ZCZC W05 45 L05 Unit test
 ZCZC W05 90 L15 Mencari top 10
+ZCZC W06 90 L15 Mencari top 10
+ZCZC W06 45 L07 Demo week 6
+ZCZC W06 40 L05 Concurrency dan dampaknya
+ZCZC W06 50 L06 Baca web hacking
