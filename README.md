@@ -6,3 +6,7 @@ Operating Systems Semester Genap 2020/2021 Fasilkom UI
 - [Week 04](./W04/)
 - [Week 05](./W05/)
 - [Week 06](./W06/)
+- [Week 07](./W07/)
+- [Week 08](./W08/)
+- [Week 09](./W09/)
+- [Week 10](./W10/)

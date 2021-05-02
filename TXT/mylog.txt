@@ -54,3 +54,7 @@ ZCZC W06 90 L15 Mencari top 10
 ZCZC W06 45 L07 Demo week 6
 ZCZC W06 40 L05 Concurrency dan dampaknya
 ZCZC W06 50 L06 Baca web hacking
+ZCZC W07 60 L07 Demo week 7
+ZCZC W07 90 L16 Menyelesaikan tugas week 07 dan mencari top 10
+ZCZC W07 30 L05 GSGS tentang web hacking
+ZCZC W07 45 L08 Mencoba memahami web related
