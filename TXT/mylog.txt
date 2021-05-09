@@ -58,3 +58,7 @@ ZCZC W07 60 L07 Demo week 7
 ZCZC W07 90 L16 Menyelesaikan tugas week 07 dan mencari top 10
 ZCZC W07 30 L05 GSGS tentang web hacking
 ZCZC W07 45 L08 Mencoba memahami web related
+ZCZC W08 100 L02 Kelas
+ZCZC W08 120 L17 Membuat LFS
+ZCZC W08 90 L17 Mencari top 10
+ZCZC W08 90 L05 Cara deploy CI/CD dengan ssh
